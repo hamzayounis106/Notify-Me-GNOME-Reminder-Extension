@@ -1,0 +1,38 @@
+.notification-entry {
+  width: 200px;
+  margin: 4px 0px;
+  padding: 6px 8px;
+  border: 1px solid #555;
+  border-radius: 4px;
+  background-color: #2a2a2a;
+  color: #ffffff;
+}
+
+.notification-entry:focus {
+  border-color: #4a90e2;
+  background-color: #333333;
+}
+
+.notification-quick-button {
+  margin: 2px;
+  padding: 4px 8px;
+  border: 1px solid #555;
+  border-radius: 3px;
+  background-color: #3a3a3a;
+  color: #ffffff;
+  min-width: 30px;
+}
+
+.notification-quick-button:hover {
+  background-color: #4a4a4a;
+  border-color: #666;
+}
+
+.notification-quick-button:active {
+  background-color: #2a2a2a;
+}
+
+.popup-menu-item-title {
+  font-weight: bold;
+  text-align: center;
+}

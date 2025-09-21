@@ -1,0 +1,8 @@
+{
+  "uuid": "notifyme@luminex",
+  "name": "Notify Me",
+  "description": "A simple reminder/notification extension for GNOME Shell.",
+  "version": 2,
+  "shell-version": ["42"],
+  "stylesheet": "stylesheet.css"
+}
